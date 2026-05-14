@@ -1,0 +1,291 @@
+{
+  "C:/Users/Angel/Documents/Proyecto Yo_Si_Creo/src/styles.css": {
+    "file": "assets/styles-BcqAPw3G.css",
+    "src": "C:/Users/Angel/Documents/Proyecto Yo_Si_Creo/src/styles.css"
+  },
+  "_SectionHeading-BY0Rpo4y.js": {
+    "file": "assets/SectionHeading-BY0Rpo4y.js",
+    "name": "SectionHeading",
+    "imports": [
+      "_worker-entry-3XPevHYn.js"
+    ]
+  },
+  "_router-Dnc3-dfK.js": {
+    "file": "assets/router-Dnc3-dfK.js",
+    "name": "router",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-3XPevHYn.js"
+    ],
+    "dynamicImports": [
+      "src/routes/tarifas.tsx?tsr-split=component",
+      "src/routes/seguridad.tsx?tsr-split=component",
+      "src/routes/contacto.tsx?tsr-split=component",
+      "src/routes/cobertura.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component"
+    ],
+    "assets": [
+      "assets/yosicreo-DAJwVPIP.jpg",
+      "assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
+      "assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
+      "assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
+      "assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
+      "assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
+      "assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
+      "assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
+      "assets/instrument-serif-latin-400-italic-u__WvvIK.woff",
+      "assets/work-sans-vietnamese-400-normal-BxGuknnG.woff2",
+      "assets/work-sans-vietnamese-400-normal-DFZk_KN_.woff",
+      "assets/work-sans-latin-ext-400-normal-zfQnhXzv.woff2",
+      "assets/work-sans-latin-ext-400-normal-j7TZlk-s.woff",
+      "assets/work-sans-latin-400-normal-jUejSri3.woff2",
+      "assets/work-sans-latin-400-normal-DE1_0GuN.woff",
+      "assets/work-sans-vietnamese-500-normal-Czn2Xkog.woff2",
+      "assets/work-sans-vietnamese-500-normal-90nhZfxs.woff",
+      "assets/work-sans-latin-ext-500-normal-CAKEIVkc.woff2",
+      "assets/work-sans-latin-ext-500-normal-CW9ss9Cz.woff",
+      "assets/work-sans-latin-500-normal-BKGnScDy.woff2",
+      "assets/work-sans-latin-500-normal-BmdXWF6_.woff",
+      "assets/work-sans-vietnamese-600-normal-DizFELYt.woff2",
+      "assets/work-sans-vietnamese-600-normal-ue5fzGW6.woff",
+      "assets/work-sans-latin-ext-600-normal-DNiHHggD.woff2",
+      "assets/work-sans-latin-ext-600-normal-B1NFRnx8.woff",
+      "assets/work-sans-latin-600-normal-DB-2V89X.woff2",
+      "assets/work-sans-latin-600-normal-Cg-NlmS7.woff",
+      "assets/work-sans-vietnamese-700-normal-CqjC4WOy.woff2",
+      "assets/work-sans-vietnamese-700-normal-BYAoORCv.woff",
+      "assets/work-sans-latin-ext-700-normal-Bc0iTajH.woff2",
+      "assets/work-sans-latin-ext-700-normal-BP8nCPzd.woff",
+      "assets/work-sans-latin-700-normal-CEeo_t6l.woff2",
+      "assets/work-sans-latin-700-normal-mDs79oer.woff",
+      "assets/styles-BcqAPw3G.css"
+    ]
+  },
+  "_worker-entry-3XPevHYn.js": {
+    "file": "assets/worker-entry-3XPevHYn.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "_router-Dnc3-dfK.js",
+      "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts"
+    ]
+  },
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff": {
+    "file": "assets/instrument-serif-latin-400-italic-u__WvvIK.woff",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff"
+  },
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff2": {
+    "file": "assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff2"
+  },
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff": {
+    "file": "assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff2": {
+    "file": "assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff": {
+    "file": "assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff"
+  },
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff2": {
+    "file": "assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff2"
+  },
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff": {
+    "file": "assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff2": {
+    "file": "assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-400-normal.woff": {
+    "file": "assets/work-sans-latin-400-normal-DE1_0GuN.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-400-normal.woff2": {
+    "file": "assets/work-sans-latin-400-normal-jUejSri3.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-500-normal.woff": {
+    "file": "assets/work-sans-latin-500-normal-BmdXWF6_.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-500-normal.woff2": {
+    "file": "assets/work-sans-latin-500-normal-BKGnScDy.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-600-normal.woff": {
+    "file": "assets/work-sans-latin-600-normal-Cg-NlmS7.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-600-normal.woff2": {
+    "file": "assets/work-sans-latin-600-normal-DB-2V89X.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-700-normal.woff": {
+    "file": "assets/work-sans-latin-700-normal-mDs79oer.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-700-normal.woff2": {
+    "file": "assets/work-sans-latin-700-normal-CEeo_t6l.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-400-normal.woff": {
+    "file": "assets/work-sans-latin-ext-400-normal-j7TZlk-s.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-400-normal.woff2": {
+    "file": "assets/work-sans-latin-ext-400-normal-zfQnhXzv.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-500-normal.woff": {
+    "file": "assets/work-sans-latin-ext-500-normal-CW9ss9Cz.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-500-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-500-normal.woff2": {
+    "file": "assets/work-sans-latin-ext-500-normal-CAKEIVkc.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-500-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-600-normal.woff": {
+    "file": "assets/work-sans-latin-ext-600-normal-B1NFRnx8.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-600-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-600-normal.woff2": {
+    "file": "assets/work-sans-latin-ext-600-normal-DNiHHggD.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-600-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-700-normal.woff": {
+    "file": "assets/work-sans-latin-ext-700-normal-BP8nCPzd.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-700-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-700-normal.woff2": {
+    "file": "assets/work-sans-latin-ext-700-normal-Bc0iTajH.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-latin-ext-700-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-400-normal.woff": {
+    "file": "assets/work-sans-vietnamese-400-normal-DFZk_KN_.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-400-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-400-normal.woff2": {
+    "file": "assets/work-sans-vietnamese-400-normal-BxGuknnG.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-400-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-500-normal.woff": {
+    "file": "assets/work-sans-vietnamese-500-normal-90nhZfxs.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-500-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-500-normal.woff2": {
+    "file": "assets/work-sans-vietnamese-500-normal-Czn2Xkog.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-500-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-600-normal.woff": {
+    "file": "assets/work-sans-vietnamese-600-normal-ue5fzGW6.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-600-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-600-normal.woff2": {
+    "file": "assets/work-sans-vietnamese-600-normal-DizFELYt.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-600-normal.woff2"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-700-normal.woff": {
+    "file": "assets/work-sans-vietnamese-700-normal-BYAoORCv.woff",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-700-normal.woff"
+  },
+  "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-700-normal.woff2": {
+    "file": "assets/work-sans-vietnamese-700-normal-CqjC4WOy.woff2",
+    "src": "node_modules/@fontsource/work-sans/files/work-sans-vietnamese-700-normal.woff2"
+  },
+  "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts": {
+    "file": "assets/start-HYkvq4Ni.js",
+    "name": "start",
+    "src": "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+    "isDynamicEntry": true
+  },
+  "src/assets/coverage.jpg": {
+    "file": "assets/coverage-P7KubPE1.jpg",
+    "src": "src/assets/coverage.jpg"
+  },
+  "src/assets/hero-taxi.jpg": {
+    "file": "assets/hero-taxi-C5KVXNNd.jpg",
+    "src": "src/assets/hero-taxi.jpg"
+  },
+  "src/assets/yosicreo.jpg": {
+    "file": "assets/yosicreo-DAJwVPIP.jpg",
+    "src": "src/assets/yosicreo.jpg"
+  },
+  "src/routes/cobertura.tsx?tsr-split=component": {
+    "file": "assets/cobertura-DGXaLdyW.js",
+    "name": "cobertura",
+    "src": "src/routes/cobertura.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-3XPevHYn.js",
+      "_SectionHeading-BY0Rpo4y.js"
+    ],
+    "assets": [
+      "assets/coverage-P7KubPE1.jpg"
+    ]
+  },
+  "src/routes/contacto.tsx?tsr-split=component": {
+    "file": "assets/contacto-DFMERNy9.js",
+    "name": "contacto",
+    "src": "src/routes/contacto.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-3XPevHYn.js",
+      "_SectionHeading-BY0Rpo4y.js"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-DA9GOR1q.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-3XPevHYn.js",
+      "_router-Dnc3-dfK.js",
+      "_SectionHeading-BY0Rpo4y.js"
+    ],
+    "assets": [
+      "assets/hero-taxi-C5KVXNNd.jpg"
+    ]
+  },
+  "src/routes/seguridad.tsx?tsr-split=component": {
+    "file": "assets/seguridad-atDxj3je.js",
+    "name": "seguridad",
+    "src": "src/routes/seguridad.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-3XPevHYn.js",
+      "_SectionHeading-BY0Rpo4y.js"
+    ]
+  },
+  "src/routes/tarifas.tsx?tsr-split=component": {
+    "file": "assets/tarifas-BEpFucOj.js",
+    "name": "tarifas",
+    "src": "src/routes/tarifas.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-3XPevHYn.js",
+      "_SectionHeading-BY0Rpo4y.js"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-D5RuaOtA.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-3XPevHYn.js"
+    ]
+  }
+}
